@@ -1,0 +1,11 @@
+{
+  "name": "Token Text Solana",
+  "symbol": "TTS",
+  "description": "Small description of your token.",
+  "image": "https://raw.githubusercontent.com/tonneko/neko/main/tonnekocoin.png",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
